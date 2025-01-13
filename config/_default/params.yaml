@@ -1,8 +1,3 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Appearance
 appearance:
   mode: system
@@ -14,8 +9,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: Anton Matsson's personal website
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,17 +25,17 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: navbar
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
-      text: "Your Name"
+      text: Anton Matsson
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "© {year} Anton Matsson. This work is licensed under {license}."
     license:
       enable: true
       allow_derivatives: false
@@ -49,12 +44,15 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: Jan 2, 2006
+  time_format: 3:04 PM
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
+
+# Sponsorship
+i_am_a_sponsor: true
