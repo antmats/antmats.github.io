@@ -30,7 +30,7 @@ summary: Summarizing patient history through aggregation and truncation allows f
 
 featured: true
 
-url_pdf: https://arxiv.org/abs/2412.07895
+url_pdf: https://doi.org/10.1002/acr2.11621
 url_code: ''
 url_dataset: ''
 url_poster: ''
