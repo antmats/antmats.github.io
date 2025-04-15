@@ -29,6 +29,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |
+        - **[Apr 2025]** The date is set for my PhD defense! I will defend my thesis on August 27 at 9:00 AM. More details to follow.
         - **[Nov 2024]** My paper on [representing patient history for interpretable policy modeling](https://arxiv.org/abs/2412.07895) has been accepted to ML4H 2024.
         - **[Sep 2024]** My paper on [unsupervised domain adaptation by learning using privileged information](https://openreview.net/forum?id=saV3MPH0kw) has been accepted to TMLR.
         - **[Apr 2024]** As one of six selected students, I am pitching my research in the [Three Minute Thesis (3MT) competition](https://www.vetenskapsfestivalen.se/for-alla/3mt-competition/6335/) on April 21 during the annual popular science festival in Gothenburg.
