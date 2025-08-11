@@ -53,8 +53,10 @@ education:
       - Served as a teaching assistant for multiple  courses in machine learning, mathematical modeling, and data science.
       - Completed advanced courses in natural language processing, distributed machine learning, deep generative models, reinforcement learning, and causal inference, building a strong foundation in state-of-the-art AI/ML.
     button:
-      text: Licentiate thesis
-      url: https://research.chalmers.se/publication/534928
+      text: PhD thesis
+      url: https://research.chalmers.se/publication/547730
+      #text: Licentiate thesis
+      #url: https://research.chalmers.se/publication/534928
   - area: MSc in Engineering Physics
     institution: Chalmers University of Technology
     date_start: 2018-09-01
