@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Current role
-role: PhD Student in Machine Learning
+role: PhD in Machine Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,17 +38,18 @@ profiles:
     url: https://scholar.google.com/citations?user=vlhPPc0AAAAJ&hl=en
 
 interests:
+  - Sequential Decision-Making
   - Interpretable Machine Learning
-  - Sequential Decision Making
   - Off-Policy Evaluation
 
 education:
   - area: PhD in Machine Learning
     institution: Chalmers University of Technology
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2025-08-31
     summary: |
-      - Led multiple research projects in collaboration with academic and industry partners, resulting in four peer-reviewed publications in prominent conference proceedings and journals.
+      - Conducted machine learning research under the supervision of [Prof. Fredrik Johansson](https://www.fredjo.com/).
+      - Contributed to multiple research projects in collaboration with academic and industry partners, resulting in 5+ preprints and peer-reviewed publications in leading conferences and journals.
       - Supervised several successful thesis projects at both bachelor’s and master’s levels, covering academic research and industry collaborations.
       - Served as a teaching assistant for multiple  courses in machine learning, mathematical modeling, and data science.
       - Completed advanced courses in natural language processing, distributed machine learning, deep generative models, reinforcement learning, and causal inference, building a strong foundation in state-of-the-art AI/ML.
@@ -107,4 +108,4 @@ languages:
 
 ## About Me
 
-I am a final-year PhD candidate in machine learning at Chalmers University of Technology, specializing in interpretable machine learning for modeling and evaluating clinical decision making. Graduating in summer 2025, I'm excited to bring my expertise in machine learning and data analysis to an industry role. My goal is to contribute to the development and deployment of robust, human-centered AI systems that drive meaningful impact in real-world applications.
+I am a machine learning researcher and engineer with a PhD from Chalmers University of Technology, where my work explored how machine learning can support decision-making in healthcare. I have a strong foundation in classical machine learning and hands-on experience with state-of-the-art generative AI, including large language models. Available to start on short notice, I am eager to apply my expertise in machine learning and data analysis to an industry role. My goal is to help develop robust, human-centered AI systems that create meaningful real-world impact.

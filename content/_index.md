@@ -29,10 +29,11 @@ sections:
       title: Recent News
       subtitle: ''
       text: |
+        - **[Sept 2025]** I successfully defended my PhD thesis on August 27 – officially Dr. Matsson! 🎓
         - **[Aug 2025]** I will defend my [PhD thesis](https://research.chalmers.se/en/publication/547730), *Interpretable Machine Learning for Modeling, Evaluating, and Refining Clinical Decision-Making*, on August 27 at 09:00 in HA2, Hörsalsvägen 4. The faculty opponent will be [Research Scientist Li-wei H. Lehman](https://web.mit.edu/lilehman/www/) from the Institute for Medical Engineering & Science (IMES) at MIT. More information is available [here](https://www.chalmers.se/en/current/calendar/Anton-Matsson-547730/).
         - **[July 2025]** A preprint of my paper on pragmatic policy development is now available on [arXiv](https://arxiv.org/abs/2507.17056).
         - **[May 2025]** My paper on [missingness-avoiding machine learning](https://openreview.net/forum?id=ps3aO9MHJv&noteId=e766b8tWcp) has been accepted to ICML 2025 for a **spotlight** poster presentation.
-        - **[Apr 2025]** The date is set for my PhD defense! I will defend my thesis on August 27 at 09:00. More details to follow.
+      #- **[Apr 2025]** The date is set for my PhD defense! I will defend my thesis on August 27 at 09:00. More details to follow.
       #- **[Nov 2024]** My paper on [representing patient history for interpretable policy modeling](https://arxiv.org/abs/2412.07895) has been accepted to ML4H 2024.
       #- **[Sep 2024]** My paper on [unsupervised domain adaptation by learning using privileged information](https://openreview.net/forum?id=saV3MPH0kw) has been accepted to TMLR.
       #- **[Apr 2024]** As one of six selected students, I am pitching my research in the [Three Minute Thesis (3MT) competition](https://www.vetenskapsfestivalen.se/for-alla/3mt-competition/6335/) on April 21 during the annual popular science festival in Gothenburg.
