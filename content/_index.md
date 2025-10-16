@@ -29,6 +29,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |
+        - **[Oct 2025]** I am excited to be joining Ericsson as a Data Scientist! I will be working in their Generative AI Lab, training custom LLMs to improve internal code efficiency.
         - **[Sept 2025]** I successfully defended my PhD thesis on August 27 – officially Dr. Matsson! 🎓
         - **[Aug 2025]** I will defend my [PhD thesis](https://research.chalmers.se/en/publication/547730), *Interpretable Machine Learning for Modeling, Evaluating, and Refining Clinical Decision-Making*, on August 27 at 09:00 in HA2, Hörsalsvägen 4. The faculty opponent will be [Research Scientist Li-wei H. Lehman](https://web.mit.edu/lilehman/www/) from the Institute for Medical Engineering & Science (IMES) at MIT. More information is available [here](https://www.chalmers.se/en/current/calendar/Anton-Matsson-547730/).
         - **[July 2025]** A preprint of my paper on pragmatic policy development is now available on [arXiv](https://arxiv.org/abs/2507.17056).

@@ -16,10 +16,12 @@ superuser: true
 highlight_name: true
 
 # Current role
-role: PhD in Machine Learning
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Ericsson
+    url: https://www.ericsson.com/en/
   - name: Chalmers University of Technology
     url: https://www.chalmers.se/en/
   - name: Healthy AI Lab
@@ -78,6 +80,13 @@ education:
       url: https://hdl.handle.net/20.500.12380/255975
 
 work:
+  - position: Data Scientist
+    company_name: Ericsson
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-10-13
+    date_end: ''
+    summary: ''
   - position: Research Intern
     company_name: Berkeley Lab
     company_url: ''
@@ -108,4 +117,4 @@ languages:
 
 ## About Me
 
-I am a machine learning researcher and engineer with a PhD from Chalmers University of Technology, where my work explored how machine learning can support decision-making in healthcare. I have a strong foundation in classical machine learning and hands-on experience with state-of-the-art generative AI, including large language models. Available to start on short notice, I am eager to apply my expertise in machine learning and data analysis to an industry role. My goal is to help develop robust, human-centered AI systems that create meaningful real-world impact.
+I am a machine learning researcher and engineer with a PhD from Chalmers University of Technology, where my work explored how machine learning can support decision-making in healthcare. Since October 2025, I have been working as a Data Scientist at Ericsson, focusing on generative AI and large language model training.
